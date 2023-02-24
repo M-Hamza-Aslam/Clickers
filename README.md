@@ -8,7 +8,7 @@ https://clickers.surge.sh/
 
 ## 📱 Screen Shots
 
-<img src="https://github.com/M-Hamza-Aslam/Clickers/blob/main/ScreenShots/SS1.jpeg?raw=true" width=400>
+<img src="https://github.com/M-Hamza-Aslam/Clickers/blob/main/ScreenShots/SS1.jpeg?raw=true">
 ## 🧑 Author
 
 #### Muhammad Hamza
